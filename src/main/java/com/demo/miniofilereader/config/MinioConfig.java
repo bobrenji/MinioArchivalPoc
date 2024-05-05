@@ -1,4 +1,4 @@
-package com.demo.miniofilereader;
+package com.demo.miniofilereader.config;
 
 import io.minio.MinioClient;
 import org.springframework.context.annotation.Bean;
